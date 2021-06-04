@@ -1,2 +1,0 @@
-model_checkpoint_path: "dqn_multi-user.ckpt"
-all_model_checkpoint_paths: "dqn_multi-user.ckpt"
